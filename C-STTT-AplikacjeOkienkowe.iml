@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_16">
+    <output url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe/target/classes" />
+    <output-test url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe/target/test-classes" />
+    <content url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe">
+      <sourceFolder url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Client-Server-Tic-Tac-Toe/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.26" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.11.4" level="project" />
+  </component>
+</module>
